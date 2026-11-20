@@ -8,7 +8,7 @@ using namespace KamataEngine;
 int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
 
 	// エンジンの初期化
-	KamataEngine::Initialize(L"CG4_2026_星形エフェクト");
+	KamataEngine::Initialize(L"LE3D_08_キムラ_レオ_就職作品");
 
 	// DirectXCommonインスタンスの取得
 	DirectXCommon* dxCommon = DirectXCommon::GetInstance();
